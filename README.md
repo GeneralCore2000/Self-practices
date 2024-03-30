@@ -1,2 +1,4 @@
-**Bugs to fix**
-[] wordCounter - the word "the" is counted with the word "they"
+# Bugs to Fix
+
+## Word Counter
+- [ ] The word "the" is counted in the word "they"
